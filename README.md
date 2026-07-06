@@ -1,2 +1,2 @@
 # Icurascribe
-To merge with code and update with prompt
+To merge with code and update with an AI prompt
